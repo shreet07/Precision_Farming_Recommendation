@@ -1,7 +1,7 @@
-# Precision_Farming_Recommendation
-This precision farming system leverages Machine Learning to optimize crop selection and water management. By integrating NPK soil analysis and climate data, it recommends ideal crops via Random Forest models, Naive Bayes and K-Means Clustering Techniques. A unique irrigation calculator converts rainfall deficits into exact liter requirements, bridging the gap between AI and field practice.
+# YieldVision: Nutrient-to-Harvest Forecaster
+YieldVision system leverages Machine Learning to optimize crop selection and water management. By integrating NPK soil analysis and climate data, it recommends ideal crops via Random Forest models, Naive Bayes and K-Means Clustering Techniques. A unique irrigation calculator converts rainfall deficits into exact liter requirements, bridging the gap between AI and field practice.
 
-# Precision Farming Recommendation: Machine Learning-Based Crop Recommendation
+# YieldVision: Nutrient-to-Harvest Forecaster
 
 # 🌾 Project Overview
 This project leverages Machine Learning to help farmers optimize agricultural productivity. By analyzing soil characteristics and environmental factors, the system recommends the most suitable crop to grow in a specific location and calculates irrigation needs to ensure optimal growth. The goal is to reduce crop failure and maximize yield by making data-driven decisions.
