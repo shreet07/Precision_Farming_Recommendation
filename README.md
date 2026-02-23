@@ -8,10 +8,15 @@ This project leverages Machine Learning to help farmers optimize agricultural pr
 
 ## 📊 Dataset Features
 The model is trained on an agricultural dataset containing:
-* Nitrogen (N), Phosphorus (P), Potassium (K): Soil nutrient levels.
-* Temperature & Humidity: Environmental conditions.
-* pH Level: Soil acidity/alkalinity.
-* Rainfall: Water availability in the region.
+* Nitrogen (N): Ratio of Nitrogen content in soil.
+* Phosphorus (P): Ratio of Phosphorous content in soil.
+* Potassium (K): Ratio of Potassium content in soil.
+* Temperature: Temperature in degree Celsius.
+* Humidity: Relative humidity in %.
+* pH: pH value of the soil.
+* Rainfall: Rainfall in mm.
+Label (Target): The recommended crop (22 unique crops including Rice, Maize, Coffee, etc.).
+Source: Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset).
 
 ## 🚀 Key Features
 1.  Exploratory Data Analysis (EDA): Visualizations of nutrient distribution and environmental impacts on 22 different crop types.
